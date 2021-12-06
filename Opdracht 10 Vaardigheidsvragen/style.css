@@ -1,0 +1,41 @@
+.schaakbord{
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+    grid-template-rows: repeat(4,100px);
+}
+
+.blok{
+    border: 1px solid black;
+}
+
+.blokjes-2{
+    background-color: black;
+}
+
+.blokjes-4{
+    background-color: black;
+}
+
+.blokjes-5{
+    background-color: black;
+}
+
+.blokjes-7{
+    background-color: black;
+}
+
+.blokjes-10{
+    background-color: black;
+}
+
+.blokjes-12{
+    background-color: black;
+}
+
+.blokjes-13{
+    background-color: black;
+}
+
+.blokjes-15{
+    background-color: black;
+}

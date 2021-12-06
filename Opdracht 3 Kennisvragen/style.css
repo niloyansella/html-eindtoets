@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+}
+.herder{
+    background-color: green;
+
+    
+}
+@media only screen and (max-width:500px){
+    .herder{
+        background-color: red;
+        font-size: 3rem;
+    }
+}
